@@ -13,7 +13,7 @@
     "has-yarn": "^2.1.0",
     "has-flag": "^3.0.0",
     "graceful-fs": "^4.2.4",
-    "hosted-git-info": "^2.8.8",
+    "hosted-git-info": "^2.8.9",
     "http-cache-semantics": "^4.1.0",
     "import-lazy": "^2.1.0",
     "inherits": "^2.0.3",
